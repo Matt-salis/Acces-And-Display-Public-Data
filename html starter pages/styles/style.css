@@ -1,0 +1,73 @@
+body {
+    font-family: cursive;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.box {
+
+    padding-inline: 10%;
+}
+
+footer {
+    background-color: rgb(150, 150, 150);
+    text-align: center;
+    height: 3rem;
+    width: 100%;
+    margin-top: auto;
+
+}
+
+#foot {
+    padding: 12px;
+}
+
+div {
+    padding-inline: 5%;
+}
+
+.row {
+    display: inline-flexbox;
+}
+
+#tgif {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    vertical-align: middle;
+    text-decoration: none;
+    color: navy;
+    position: relative;
+    top: 25%;
+    left: 5%;
+
+
+}
+
+#mailcon{
+    width: 40px;
+}
+
+#ilm_logo {
+    width: 150px;
+    height: 150px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#logo_home {
+    width: 500px;
+}
+
+#mail {
+    float: right;
+    position: relative;
+    top: 50px;
+}
+
+#link {
+    text-align: center;
+    margin: 10px;
+}
